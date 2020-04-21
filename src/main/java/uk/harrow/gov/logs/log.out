@@ -1,0 +1,6 @@
+2020-04-19 10:04:931 INFO  BrowserSelector :19 - launching the  Chrome browser
+2020-04-19 10:04:104 INFO  HomePage :35 - clicking on counciltax link : [[ChromeDriver: chrome on WINDOWS (d86d5ca0a7d83407cc2d534f068c8e28)] -> xpath: //span[contains(text(),'Council Tax')]]
+2020-04-19 10:04:154 INFO  CouncilTaxPage :24 - Getting text from [[ChromeDriver: chrome on WINDOWS (d86d5ca0a7d83407cc2d534f068c8e28)] -> xpath: //h1[contains(text(),'Council Tax')]]
+2020-04-19 11:04:916 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-19 11:04:145 INFO  HomePage :35 - clicking on counciltax link : [[ChromeDriver: chrome on WINDOWS (a280aa20305dbc29269a29887a47ff45)] -> xpath: //span[contains(text(),'Council Tax')]]
+2020-04-19 11:04:196 INFO  CouncilTaxPage :24 - Getting text from [[ChromeDriver: chrome on WINDOWS (a280aa20305dbc29269a29887a47ff45)] -> xpath: //h1[contains(text(),'Council Tax')]]
